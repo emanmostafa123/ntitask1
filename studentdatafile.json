@@ -1,0 +1,77 @@
+[
+    {
+        "studentId": 1,
+        "studentName": "eman",
+        "studentDegrees": [
+            10,
+            20,
+            30
+        ],
+        "comment": "Good",
+        "totalDegrees": 60
+    },
+    {
+        "studentId": 2,
+        "studentName": "eman",
+        "studentDegrees": [
+            20,
+            20,
+            30
+        ],
+        "comment": "Very Good",
+        "totalDegrees": 70
+    },
+    {
+        "studentId": 3,
+        "studentName": "eman",
+        "studentDegrees": [
+            20,
+            20,
+            30
+        ],
+        "comment": "Very Good",
+        "totalDegrees": 70
+    },
+    {
+        "studentId": 5,
+        "studentName": "eman",
+        "studentDegrees": [
+            40,
+            20,
+            30
+        ],
+        "comment": "Good",
+        "totalDegrees": 90
+    },
+    {
+        "studentId": 6,
+        "studentName": "eman",
+        "studentDegrees": [
+            50,
+            50,
+            30
+        ],
+        "comment": "Good",
+        "totalDegrees": 130
+    },
+    {
+        "studentId": 7,
+        "studentName": "eman",
+        "studentDegrees": [
+            100,
+            30
+        ],
+        "comment": "Good",
+        "totalDegrees": 130
+    },
+    {
+        "studentId": 8,
+        "studentName": "eman",
+        "studentDegrees": [
+            300,
+            30
+        ],
+        "comment": "Good",
+        "totalDegrees": 330
+    }
+]
